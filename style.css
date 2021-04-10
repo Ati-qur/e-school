@@ -1,0 +1,194 @@
+.bg-color
+{
+    background:  #F0FFF0;
+    padding-bottom: 63px;
+}
+
+.logo img
+{
+    height: 64px;
+    widows: 100px;
+}
+.logo
+{ 
+    margin-left: 212px;
+    margin-right: 135px;
+    display: flex;
+    margin-top: 10px;
+}
+.sing 
+{
+    height: 43px;
+    width: 104px;
+    left: 1201px;
+    top: 25px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+
+}
+.get
+{
+    height: 43px;
+    width: 153px;
+    left: 205px;
+    top: 470px;
+    border-radius: 33px;
+    padding: 12px, 36px, 12px, 36px;
+
+}
+.pok
+{
+    border: 1px solid green;
+}
+.nav
+{
+    flex: 4;
+}
+
+.p-margin
+{
+    margin-left: 212px;
+    margin-right: 40px;
+}
+.ready
+{
+height: 24px;
+margin-top: 178px;
+font-family: Poppins;
+font-size: 16px;
+color: #FD511A;
+}
+.learn
+{
+height: 140px;
+
+font-family: Poppins;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+
+color: #000000;
+}
+#any
+{
+    color:#21B573;
+}
+.ipsum
+{
+height: 85px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 36px;
+
+color: #6C6B6B;
+}
+
+.Illustration
+{
+    margin-top:89px ;
+    margin-right: 195px;
+}
+
+
+
+
+  .box-wrap
+  {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+  }
+  .box
+  {
+    height: 270px;
+    width: 270px;
+    border-radius: 10px;
+    margin-right: 30px;
+    margin-top: 42px;
+    box-shadow:0 2px 3px 0px rgba(0,0,0,0.25);
+    transition:.2s all;
+    background: #F8FFFB;
+  }
+  .box img
+  {
+      height: 85px;
+      width: 66px;
+      margin-bottom: 20px;
+  }
+  
+  .box-wrap:hover .box
+  {
+    filter:blur(3px);
+    opacity:.5;
+    transform: scale(.98);
+    box-shadow:none;
+  }
+  .box-wrap:hover .box:hover
+  {
+    transform:scale(1);
+    filter:blur(0px);
+    opacity:1;
+    box-shadow:0 8px 20px 0px rgba(0,0,0,0.125);
+  }
+
+  .course
+  {
+      color: #413960;
+      font-weight: bold;
+      margin-top: 98px;
+      margin-bottom: 86px;
+  }
+  .card
+  {
+    Width:370px;
+    Height:483px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.301);
+  }
+  .card-title
+  {
+    color: #413960;
+
+  }
+  .buy
+  {
+      height: 35px;
+      width: 137px;
+      border-radius: 33px;
+      padding: 8px, 28px, 8px, 28px;
+      background:#21B573;
+  }
+#men
+{
+    height: 120px;
+    width: 120px;
+    margin-left:200px ;   
+    margin-right: 52px; 
+}
+#men-1
+{
+    margin-right:200px;
+}
+
+.terms
+{
+    padding-top: 70px;
+    background: #282531;
+    color: #F8FFFB;
+}
+
+.no-bullets
+{list-style-type:none;}
+
+.terms p
+{
+    margin-left: 150px;
+}
+
+footer
+{
+   margin-left:550px ;
+}
